@@ -1,0 +1,48 @@
+.titles{
+    color: #C07F00;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-top: 1rem;
+    
+    
+    
+}
+.main{
+    background-image: url('/src/images/a3.jpg');
+    border-radius: 20px;
+    display: block;
+    padding-bottom: 6rem;
+    object-fit: cover;
+    
+    background-size: cover;
+    
+    opacity: 0.9;
+    
+}
+
+.container{
+    margin-left: 20rem;
+    margin-right: 20rem;
+    margin-top: 1rem;
+
+}
+.head{
+    text-align: center;
+    font-size: 3.5rem;
+    font-family: serif;
+    font-weight: bold;
+    padding: 2rem;
+    margin-bottom: -0.5rem;
+    background-color:#DBDFEA;
+    
+    
+}
+
+.desc{
+    color: #FFF7D4;
+    text-align: center;
+    font-weight:bolder;
+    font-style: oblique;
+}
+
